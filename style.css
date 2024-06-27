@@ -1,0 +1,26 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10rem;
+}
+#buttonContainer{
+    text-align: center;
+}
+.buttonInc{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: white;
+    background: linear-gradient(rgb(73, 227, 104),rgb(3, 160, 3));
+}
+.buttonDec{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: white;
+    background: linear-gradient(rgb(241, 77, 77),rgb(161, 6, 6));
+}
+.buttonRes{
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: white;
+    background: linear-gradient(rgb(53, 137, 182),rgb(4, 183, 174));
+}
